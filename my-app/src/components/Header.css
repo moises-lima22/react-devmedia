@@ -1,0 +1,15 @@
+.header-container {
+  width: 100vw;
+  height: 15vh;
+  background-color: black;
+  text-align: center;
+  color: #eee;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-container header{
+    font-size: 1.5rem;
+}
